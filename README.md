@@ -89,8 +89,6 @@ const rafael: Developer = {
 
 Compare mortgage rates from multiple lenders, analyze loan offers side-by-side, and find the best deal for your home purchase.
 
-`React` `TypeScript` `Financial Tools`
-
 [![Live Demo](https://img.shields.io/badge/Live-mortgage--compare.pro-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://mortgage-compare.pro/)
 
 </td>
@@ -100,8 +98,6 @@ Compare mortgage rates from multiple lenders, analyze loan offers side-by-side, 
 **Collaborative shopping lists**
 
 Real-time collaborative shopping list app for coordinating group purchases and event planning.
-
-`React` `TypeScript` `Real-time Sync` `Railway`
 
 [![Live Demo](https://img.shields.io/badge/Live-ListMate-58a6ff?style=flat-square&logo=railway&logoColor=white)](https://frontend-dev-7c2b.up.railway.app/)
 
