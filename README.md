@@ -20,7 +20,7 @@ const rafael: Developer = {
   location: "Florida, US",
   roles: ["Full Stack Engineer", "Data Engineer"],
   currentlyBuilding: ["ListMate", "Mortgage Compare Pro"],
-  stack: ["TypeScript", "React", "Node.js", "Go", "Snowflake", "Kafka"],
+  stack: ["TypeScript", "React", "Node.js", "Python", "Snowflake", "Kafka"],
   askMeAbout: ["System Design", "Data Pipelines", "Cloud Architecture"]
 };
 ```
@@ -47,8 +47,8 @@ const rafael: Developer = {
 <br/><br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -59,6 +59,7 @@ const rafael: Developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 </td>
 </tr>
