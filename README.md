@@ -95,7 +95,7 @@ Compare mortgage rates from multiple lenders, analyze loan offers side-by-side, 
 </td>
 <td width="50%" valign="top">
 
-### 📝 [ListMate](https://frontend-dev-7c2b.up.railway.app/)
+### 📝 [ListMate](https://listmate.pro/)
 **Collaborative shopping lists**
 
 Real-time collaborative shopping list app for coordinating group purchases and event planning.
